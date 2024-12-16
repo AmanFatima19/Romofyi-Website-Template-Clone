@@ -1,2 +1,2 @@
 # Romofyi Website Template Clone
- A responsive clone of the Romofyi website, replicating its design and user interface for learning and practice purposes.
+ A simple clone of the Romofyi website with basic HTML and CSS, replicating its design and user interface for learning and practice purposes.
